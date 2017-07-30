@@ -7,7 +7,6 @@
 
 ### How to Run:
 - Download/Fork this repo.
-- Open Movie Website Directory
 - In a terminal in the Directory run the following command.
 ```
     python entertainment_center.py
